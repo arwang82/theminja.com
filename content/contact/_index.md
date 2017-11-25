@@ -2,10 +2,6 @@
 title: Contact
 description: We'd love to hear from you
 featured_image: '/images/TheMinjaTheme.jpg'
-type: page
-menu:
-  main: {}
-
 ---
 
 
